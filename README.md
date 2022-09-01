@@ -1,9 +1,17 @@
-# Sistema de cadastro de jogos #
+# Conteúdo do curso #
 
->Status do projeto: Em desenvolvimento
+- Criando o repositório
+- Criando o arquivo README
+- Fazendo 'pull' e 'push' do repositório para o GitHub pelo terminal
+- Utilização dos 'commits' 
+- Criando uma nova branch
+- Aprendendo voltar a uma versão anterior do repositório/arquivo
+- Aprendendo a utilizar o VSCode dentro do GitHub
 
-Para rodar esse projeto na sua máquina, por favor digite:
+>Status da aula: Concluída
+
+
 
 ```
-node app.js
+SO/Terminal usado na aula: Kali Linux (baseado em Debian)
 ```
